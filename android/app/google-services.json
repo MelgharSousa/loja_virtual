@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913769179264",
+    "firebase_url": "https://lojaflutter-61279.firebaseio.com",
+    "project_id": "lojaflutter-61279",
+    "storage_bucket": "lojaflutter-61279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913769179264:android:b3603274961919ba841e65",
+        "android_client_info": {
+          "package_name": "chat.ramos.com.br.loja_virtual_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913769179264-v8mrh5qt0o2llr8cq06mo5cskn6t1j68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAblXwrM2g3YpWivmII3mwsmC-8n4IOYVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913769179264-v8mrh5qt0o2llr8cq06mo5cskn6t1j68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
